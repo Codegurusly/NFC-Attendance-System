@@ -1,7 +1,7 @@
 # NFC Attendance System
 
 This Java-based NFC attendance system reads NFC tags and logs attendance in an Excel spreadsheet.
-This was initially developed for the Pakistani Student Association at Rutgers University by Dayyan Hamid
+This was initially developed for the final year project for Tabitha wariari in Embu
 
 ## Requirements
 - Java 8 (or higher)
